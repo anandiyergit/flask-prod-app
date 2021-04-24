@@ -1,2 +1,2 @@
-# flask-prod-app
-Building and Packaging a Flask app in production.
+# Building and Packaging a Flask app in production.
+Provides building and packaging a production grade flask app.
