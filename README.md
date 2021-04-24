@@ -23,7 +23,3 @@ Name     | Version
 Flask    | v1.1.2
 Gunicorn | v20.0.4
 
-
-
-  
- 
